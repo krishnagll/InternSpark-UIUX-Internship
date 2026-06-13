@@ -23,9 +23,8 @@ Design a user-friendly mobile application that helps students manage studies, as
 - Design System
 - UX Case Study Report
 
-### Links
-- Figma Prototype: [Add Link Here]
-- PDF Report: [Add Link Here]
+### Link
+- Figma Prototype: https://www.figma.com/design/G5sVMnrSuWDo9dMi01KXPG/StudyBuddy---Mobile-App-UX-Case-Study?node-id=0-1&t=MHqmdSpbh9gA2C2e-1
 
 ---
 
@@ -41,9 +40,7 @@ Design a modern and responsive landing page with a clean user interface and stro
 - Design Documentation
 
 ### Links
-- Figma Prototype: [Add Link Here]
-- PDF Report: [Add Link Here]
-
+- Figma Prototype: https://www.figma.com/design/8Yh4f0Vy0Fsp1sTYdy6Iwg/Untitled?node-id=0-1&t=NgYPT4yVQCwlVHkX-1
 ---
 
 ## Task 3 – UI/UX Design Challenge
@@ -59,9 +56,7 @@ Create a complete UI/UX solution based on the given internship challenge require
 - Design Documentation
 
 ### Links
-- Figma Prototype: [Add Link Here]
-- PDF Report: [Add Link Here]
-
+- Figma Prototype: https://www.figma.com/design/fM7nuhNYkwwHrL1YoZhZMM/StudyBuddy-Design-System?node-id=0-1&t=foYhKULWP4NA96V9-1
 ---
 
 ## Tools Used
