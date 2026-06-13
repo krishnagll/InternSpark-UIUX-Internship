@@ -24,7 +24,6 @@ Design a user-friendly mobile application that helps students manage studies, as
 - UX Case Study Report
 
 ### Links
-- Figma Design: [Add Link Here]
 - Figma Prototype: [Add Link Here]
 - PDF Report: [Add Link Here]
 
@@ -42,7 +41,6 @@ Design a modern and responsive landing page with a clean user interface and stro
 - Design Documentation
 
 ### Links
-- Figma Design: [Add Link Here]
 - Figma Prototype: [Add Link Here]
 - PDF Report: [Add Link Here]
 
@@ -61,7 +59,6 @@ Create a complete UI/UX solution based on the given internship challenge require
 - Design Documentation
 
 ### Links
-- Figma Design: [Add Link Here]
 - Figma Prototype: [Add Link Here]
 - PDF Report: [Add Link Here]
 
